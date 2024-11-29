@@ -33,8 +33,9 @@ python C:\Code\encrpytdecrypt\endecrpyt.py encrypt -message "Hello, World!" -out
 -------------------------------------------------------
 
 
-Decryption
 
+
+Decryption
 -------------------------------------------------------
 
 Description:
