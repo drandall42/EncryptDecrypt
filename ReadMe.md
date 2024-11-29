@@ -1,4 +1,6 @@
-Overview:
+Overview
+-------------------------------------------------------
+
 This program encrypts or decrypts a message or file and outputs it to a text file. 
 
 
