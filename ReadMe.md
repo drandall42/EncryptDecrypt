@@ -57,3 +57,11 @@ Parameters:
 Example Syntax:
 
 python C:\Code\encrpytdecrypt\endecrpyt.py decrypt -file encrypted_message.txt -key $(cat key.txt) -output decrypted_message.txt
+
+
+Dependices:
+-------------------------------------------------------
+
+Cryptography
+
+Instillation: pip install cryptography
