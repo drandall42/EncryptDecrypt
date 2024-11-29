@@ -1,12 +1,18 @@
 Overview:
 This program encrypts or decrypts a message or file and outputs it to a text file. 
 
+
+
 Encryption
+
+
 
 Description:
 The program accepts a message or file and encrypts it with either a supplied key or generates a new key. 
 The output is generated in a new file. 
 The key used to encrypt the file can be exported to a file to allow for later decryption.
+
+
 
 Parameters:
 
@@ -20,16 +26,24 @@ Parameters:
 
 -output         File to save the encrypted output
 
+
+
 Example Syntax:
 
 python C:\Code\encrpytdecrypt\endecrpyt.py encrypt -message "Hello, World!" -output encrypted_message.txt -key_output key.txt
 
 
+
+
 Decryption
+
+
 
 Description:
 The program accepts a text file with an encrypted message and an encryption key.
 The output is generated in a new text file.
+
+
 
 Parameters:
 
@@ -38,6 +52,8 @@ Parameters:
 -key          Decryption key
 
 -output       File to save the decrypted output
+
+
 
 Example Syntax:
 
