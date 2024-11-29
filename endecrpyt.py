@@ -62,7 +62,7 @@ decrypt_parser.add_argument(
 decrypt_parser.add_argument(
     "-output",
     type=str,
-    help="File to save the decrypted output (optional)"
+    help="File to save the decrypted output"
 )
 
 # Parse arguments
